@@ -1,0 +1,19 @@
+{
+  "name": "a00-rmerrico",
+  "version": "1.0.0",
+  "description": "This assignment for COMP 426 will help you get through setting up tools and installing some of the basic software you will need to have for the course. It is a walkthrough for installing and setting up your development environment, including: Node.js, Visual Studio Code, Chrome, git, and using GitHub Classroom for submissions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://rmerrico: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@github.com/jdmar3-comp426/a00-rmerrico.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a00-rmerrico/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a00-rmerrico#readme"
+}
